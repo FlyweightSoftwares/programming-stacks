@@ -28,7 +28,6 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {label: 'Blog', position: 'left',  href: 'https://programming-stacks.blogspot.com/',},
         {
           href: 'https://github.com/FlyweightSoftwares/programming-stacks',
           label: 'GitHub',

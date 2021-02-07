@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Style Guide
-sidebar_label: Style Guide
+id: cheatBookMd
+title: Markdown Cheat Book
+sidebar_label: Markdown Style Guide
 slug: /
 ---
 

@@ -1,6 +1,5 @@
 module.exports = {
   someSidebar: {
-    Angular: ['ngStructure'],
-    Flutter: ['flutterStructure','flutterGetX'],
+    "Cheat Books": ['cheatBookMd'],
   },
 };
