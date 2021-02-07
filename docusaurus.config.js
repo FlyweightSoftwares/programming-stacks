@@ -7,8 +7,14 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'FlyweightSoftwares', // Usually your GitHub org/user name.
-  projectName: 'programming-stacks', // Usually your repo name.
+  projectName: 'programming-stacks', 
   themeConfig: {
+    algolia: {
+      apiKey: '02034788fc4eb23f7b9f71664243d40b',
+      indexName: 'prod_DOC',
+      appId:'JTSEQU932W',
+    
+    },// Usually your repo name.
     navbar: {
       title: 'Programming Stacks',
       logo: {
