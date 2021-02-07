@@ -1,13 +1,13 @@
 module.exports = {
   title: 'Programming Stacks',
   tagline: 'The Knowledge Document',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://flyweightsoftwares.github.io',
+  baseUrl: '/programming-stacks/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'Programming Stacks', // Usually your repo name.
+  organizationName: 'FlyweightSoftwares', // Usually your GitHub org/user name.
+  projectName: 'programming-stacks', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Programming Stacks',
