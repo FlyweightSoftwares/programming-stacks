@@ -1,0 +1,1 @@
+(self.webpackChunkprogramming_stacks=self.webpackChunkprogramming_stacks||[]).push([[354],{6054:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/programming-stacks/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/programming-stacks/blog/tags/docusaurus"}')}}]);

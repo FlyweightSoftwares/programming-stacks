@@ -1,0 +1,1 @@
+(self.webpackChunkprogramming_stacks=self.webpackChunkprogramming_stacks||[]).push([[816],{3441:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/programming-stacks/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/programming-stacks/blog/tags/hola"}')}}]);
